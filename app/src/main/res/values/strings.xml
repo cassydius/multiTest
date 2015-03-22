@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Main Activity-->
+    <string name="app_name">MultiTest</string>
+    <string name="action_settings">Settings</string>
+    <string name="ocr">OCR</string>
+    <string name="gps">Location</string>
+
+    <!-- OCR Activity-->
+    <string name="title_activity_scan">ScanActivity</string>
+    <string name="open">Open</string>
+    <string name="scan">Scan</string>
+
+    <!-- Location Activity-->
+    <string name="title_activity_gps">GPSActivity</string>
+    <string name="coordinates">Coordinates</string>
+    <string name="latitude">Lat:</string>
+    <string name="longitude">Lon:</string>
+    <string name="gps_coord">Get GPS coordinates</string>
+    <string name="data_coord">Get Data coordinates</string>
+    <string name="closest_rest">Closest restaurant:</string>
+    <string name="pick_position">Pick position</string>
+    <string name="pick_address">Pick address</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+    <string name="please_turn_on_gps">Please turn on Location</string>
+
+    <!-- Misc Activity-->
+    <string name="hello_world">Hello world!</string>
+
+    <string name="webview">WebView</string>
+    <string name="title_activity_web_view">WebViewActivity</string>
+
+    <string name="custom_visual">Custom visual</string>
+    <string name="title_activity_custom_visual">CustomVisualActivity</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+
+</resources>
